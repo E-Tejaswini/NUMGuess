@@ -27,3 +27,5 @@ Acknowledgments
 * Feel free to contribute to the project or customize it to suit your preferences. Enjoy the game!
 
   see the preview,how it works👀
+  https://github.com/E-Tejaswini/NUMGuess/assets/147268553/2f6633fb-5fed-42d5-aa62-4c48f81a1b8d
+
